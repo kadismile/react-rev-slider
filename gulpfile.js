@@ -27,7 +27,8 @@ var taskConfig = {
 		dist: 'example/dist',
 		files: [
 			'index.html',
-			'.gitignore'
+			'.gitignore',
+			'rs-plugin/**/**/*'
 		],
 		scripts: [
 			'example.js'
