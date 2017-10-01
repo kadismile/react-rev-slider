@@ -2,9 +2,7 @@
 Exposes react components for the popular revolution slider. 
 NB: For now it supports only images in the slider and not videos and designed to work with Revolution Slider 4.
 
-## Demo & Examples
-
-Live demo: [bodunadebiyi.github.io/react-rev-slider](http://bodunadebiyi.github.io/react-rev-slider/)
+## Examples
 
 To build the examples locally, run:
 
